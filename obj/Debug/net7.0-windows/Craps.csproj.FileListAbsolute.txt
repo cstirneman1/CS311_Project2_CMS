@@ -1,0 +1,16 @@
+C:\Users\stirn\source\repos\Craps\bin\Debug\net7.0-windows\Craps.exe
+C:\Users\stirn\source\repos\Craps\bin\Debug\net7.0-windows\Craps.deps.json
+C:\Users\stirn\source\repos\Craps\bin\Debug\net7.0-windows\Craps.runtimeconfig.json
+C:\Users\stirn\source\repos\Craps\bin\Debug\net7.0-windows\Craps.dll
+C:\Users\stirn\source\repos\Craps\bin\Debug\net7.0-windows\Craps.pdb
+C:\Users\stirn\source\repos\Craps\obj\Debug\net7.0-windows\Craps.Craps.resources
+C:\Users\stirn\source\repos\Craps\obj\Debug\net7.0-windows\Craps.csproj.GenerateResource.cache
+C:\Users\stirn\source\repos\Craps\obj\Debug\net7.0-windows\Craps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stirn\source\repos\Craps\obj\Debug\net7.0-windows\Craps.AssemblyInfoInputs.cache
+C:\Users\stirn\source\repos\Craps\obj\Debug\net7.0-windows\Craps.AssemblyInfo.cs
+C:\Users\stirn\source\repos\Craps\obj\Debug\net7.0-windows\Craps.csproj.CoreCompileInputs.cache
+C:\Users\stirn\source\repos\Craps\obj\Debug\net7.0-windows\Craps.dll
+C:\Users\stirn\source\repos\Craps\obj\Debug\net7.0-windows\refint\Craps.dll
+C:\Users\stirn\source\repos\Craps\obj\Debug\net7.0-windows\Craps.pdb
+C:\Users\stirn\source\repos\Craps\obj\Debug\net7.0-windows\Craps.genruntimeconfig.cache
+C:\Users\stirn\source\repos\Craps\obj\Debug\net7.0-windows\ref\Craps.dll
